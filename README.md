@@ -1,2 +1,2 @@
-# Dissertation-Projects
-Brief project for security tests
+# Dissertation-XSS test
+Brief project for XSS security flaw demonstartion
